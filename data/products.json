@@ -13,7 +13,7 @@
     "name": "Dark Roast Espresso",
     "category": "Coffee",
     "description": "Bold and rich, roasted for espresso machines and moka pots. 250g whole beans.",
-    "price": 13.95,
+    "price": 100.95,
     "image": "/images/products/product-2.svg",
     "alt": "Placeholder image for Dark Roast Espresso"
   },
@@ -79,6 +79,15 @@
     "price": 18.5,
     "image": "/images/products/product-9.svg",
     "alt": "Placeholder image for Travel Mug"
+  },
+  {
+    "id": "10",
+    "name": "Coffee Scoop",
+    "category": "Accessories",
+    "description": "Precision measuring scoop for consistent coffee-to-water ratios.",
+    "price": 9.99,
+    "image": "/images/products/product-10.svg",
+    "alt": "Placeholder image for Coffee Scoop"
   }
 
 ]
